@@ -17,3 +17,4 @@ CREATE TABLE products (
 
 INSERT INTO products (product_name, department_name, price, quantity)
 VALUES ("2018 911 Turbo S", "Convt", 9.25, 3);
+# Mysql
